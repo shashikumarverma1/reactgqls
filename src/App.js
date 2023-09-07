@@ -11,7 +11,7 @@ import { useState } from 'react';
 function App() {
   
   return (
-   <div style={{backgroundColor:'red' , height:'100vh'}}>
+   <div style={{backgroundColor:'green' , height:'100vh'}}>
      <BrowserRouter >
    <NavBar/>
    <Routes>
